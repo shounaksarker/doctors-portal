@@ -1,0 +1,11 @@
+.text-white{
+    color: white;
+}
+.menu-item{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+}
+.menubar{
+   margin-bottom: 100px!important;
+}

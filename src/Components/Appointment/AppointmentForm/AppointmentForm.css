@@ -1,0 +1,19 @@
+.ReactModal__Overlay{
+    background: rgb(75 75 75 / 88%) !important;
+}
+.ReactModal__Content{
+    border-radius: 10px !important;
+    padding: 40px !important;
+}
+.head-color{
+    color: #10CFE5
+}
+.send-btn{
+    float: right;
+    background: linear-gradient(60deg, #19D3B0, #10CFE9);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-weight: bold;
+}

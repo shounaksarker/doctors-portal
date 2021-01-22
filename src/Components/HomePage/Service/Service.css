@@ -1,0 +1,56 @@
+.services{
+    margin-bottom: 200px;
+}
+.service-title{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.service-title h4{
+    color: #1CC7C1;
+    margin-bottom: 15px;
+}
+.cardd{
+    border: none !important;
+    padding: 30px
+}
+.cardd-img{
+    max-width: 100px;
+    max-height:98px;
+    margin: 0 auto;
+}
+.cardd .card-title{
+    text-align: center;
+}
+.cardd .card-text{
+    text-align: justify;
+    color: #5e5e5e;
+}
+
+.dental-care{
+    padding: 20px 0px;
+}
+.dental-care img{
+    width: 100%;
+    max-height: 700px;
+}
+.dental-care-text{
+    margin-top: 40px;
+}
+.dental-care p{
+    margin: 40px 20px 40px 0px;
+    text-align: justify;
+    font-size: 22px;
+    font-weight: 100;
+    color: #5e5e5e;
+    line-height: 35px;
+}
+.dental-care button{
+    padding: 15px 25px;
+    font-size: 20px;
+    font-family: system-ui;
+    background: linear-gradient(60deg, #19D3B0, #10CFE9);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}

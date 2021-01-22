@@ -1,0 +1,11 @@
+.testimonial .containerr{
+    background-image: none;
+}
+.arrow{
+    font-size: 50px;
+    margin-bottom: 0;
+    margin-top: 23px;
+}
+.bg-gradiant{
+    background: linear-gradient(60deg, #19D3B0, #10CFE9);
+}

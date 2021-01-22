@@ -1,0 +1,48 @@
+.main-color {
+  color: #6ACECE;;
+}
+.main-button{
+    padding: 10px 18px;
+    font-size: 20px;
+    font-family: system-ui;
+    background: linear-gradient(60deg, #19D3B0, #10CFE9);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+.main-bg{
+  background: linear-gradient(60deg, #19D3B0, #10CFE9);
+}
+
+
+.containerr{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+@media (min-width: 576px){
+  .containerr{
+      max-width: 550px;
+  }
+}
+@media (min-width: 768px){
+  .containerr{
+      max-width: 750px;
+  }
+}
+@media (min-width: 992px){
+  .containerr{
+      max-width: 980px;
+  }
+}
+@media (min-width: 1200px){
+  .containerr{
+      max-width: 1500px;
+    }
+  }

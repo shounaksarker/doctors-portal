@@ -1,0 +1,9 @@
+.appointmentByDate .main-button{
+    color: black;
+    padding: 5px 7px;
+    font-size: 17px;
+    font-weight: 500;
+}
+.react-calendar{
+    margin: 0 auto;
+}

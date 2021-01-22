@@ -1,0 +1,17 @@
+.appointment-card .card{
+    border: none;
+    box-shadow: 0px 0px 6px black;
+}
+.appointment-card .card-title{
+    font-size: 1.75rem;
+}
+.appointment-card button{
+    width: 50%;
+    font-size: 18px;
+    font-family: system-ui;
+    background: linear-gradient(60deg, #19D3B0, #10CFE9);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}

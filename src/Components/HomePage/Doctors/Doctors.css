@@ -1,0 +1,12 @@
+.doctors h1{
+    text-align: center;
+    color: #10CFE9
+}
+.dctr .card-body{
+    text-align: center
+}
+.dctr img{
+    object-fit: cover;
+    object-position: -20% 0;
+    max-height: 320px;
+}

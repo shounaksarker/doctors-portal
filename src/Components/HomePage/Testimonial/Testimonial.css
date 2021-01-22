@@ -1,0 +1,35 @@
+.testimonial{
+    padding-bottom: 10px;
+    margin-top:100px;
+}
+.testimonial .containerr{
+    background-image: url('../../../img/tooth.png');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 50px;
+}
+.testimonial-heading{
+    margin-bottom: 80px;
+}
+.testimonial h5{
+    color: #1CC7C1;
+}
+.testimonial .cardd{
+    box-shadow: 0px 0px 8px #b6b6b6;
+}
+.testimonial .card-body, .testimonial .card-text{
+    padding: 0px;
+}
+.testimonial .card-text{
+    color: #0000008e;
+}
+.testimonial .card-footer{
+    padding: 0;
+    background: none;
+    border: none;
+    margin-top: 30px;
+}
+.testimonial .card-footer p{
+    color: #00000054;
+}
+

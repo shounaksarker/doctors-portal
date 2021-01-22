@@ -1,0 +1,41 @@
+.appointment-section{
+    background-image: url('../../../img/chiar3.png');
+    background-repeat:no-repeat;
+    background-size: cover;
+    position: relative;
+    background-position:center center;
+    width: 100%;
+    height: 420px;
+}
+.appointment-section::before{
+    content:  "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: #242949;
+    opacity: .8;
+    top: 0;
+}
+.appointment-section img{
+    height: 550px;
+    transform: translateY(-130px);
+}
+.appointment-section h5{
+    color: #6ACECE !important;
+}
+.appointment-section p{
+   font-size: 20px;
+   font-weight: 100;
+   padding-right: 10px;
+}
+.appointment-btn{
+    padding: 15px 25px;
+    font-size: 20px;
+    font-family: system-ui;
+    background: linear-gradient(60deg, #19D3B0, #10CFE9);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}

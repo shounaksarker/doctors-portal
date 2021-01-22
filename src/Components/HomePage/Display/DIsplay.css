@@ -1,0 +1,50 @@
+section{
+    margin-bottom: 60px;
+}
+.box3{
+    justify-content: center;
+}
+.image{
+    width:100%;
+}
+.your-new-smile{
+    font-size: 45px;
+    line-height: 60px;
+    color: #203047;
+    font-family:sans-serif;
+    font-weight: 600;
+}
+.smile-p{
+    margin: 30px 0px;
+    font-size: 18px;
+    font-weight: 100;
+    font-family: system-ui;
+}
+.appointment-btn{
+    padding: 15px 25px;
+    font-size: 20px;
+    font-family: system-ui;
+    background: linear-gradient(60deg, #19D3B0, #10CFE9);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+.box{
+    background: #1CC7C1;
+    margin: 0px !important;
+    padding: 20px 30px 10px !important;
+    border-radius: 5px;
+    color: white;
+}
+.box:nth-child(2){
+    background: #3A4256 !important;
+}
+.clock{
+    font-size: 60px;
+    text-align: center;
+}
+.text-side{
+    padding-top : 15px;
+    text-align: center;
+}
