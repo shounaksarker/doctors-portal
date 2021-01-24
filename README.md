@@ -14,7 +14,7 @@ It's a dynamic website made for take appointment.
 * Authority can enter to dashbord by login, check appointment list by date and all patient list.
 
 
-#### Technology and Dependency:
+### Technology and Dependency:
 * React JS
 * Firebase auth
 * Bootstrap
